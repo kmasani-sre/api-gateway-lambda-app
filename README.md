@@ -2,6 +2,7 @@
 
 ## AWS
 1. AWS Lambda / API Gateway / Route53
+2. Lambda@Edge
 
 ## SRE / Observability 
 1. Open Telemetry
