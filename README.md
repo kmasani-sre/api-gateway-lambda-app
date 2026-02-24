@@ -28,3 +28,4 @@
 ## Other Topics
 1. OPA
 2. Sentinel Policies
+3. Kafka with Publisher/Consumer - "Observable" flow.
